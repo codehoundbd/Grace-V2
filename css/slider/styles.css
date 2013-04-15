@@ -18,6 +18,7 @@ body {
 	color: #FFF;
 	font-size: 9pt;
 	cursor: default;
+	background-image:url(img/pattern5.png);background-repeat:repeat;background-color:#fff;
 }
 
 .clear {
